@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Parsh Jain and I'm a Web Developer</h2>
+<h2 align="center">Hi 👋! My name is Parsh Jain and I'm a  Developer</h2>
 
 ###
 
@@ -47,6 +47,10 @@
 
 ###
 
+<p align="center">- Passionate about working on projects that genuinely captivate my interest<br>- Open to connecting with individuals who have interesting insights to share</p>
+
+###
+
 <div align="center">
   <img height="200" src="https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif"  />
 </div>
@@ -69,9 +73,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Parsh06/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Parsh06/Parsh06/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -77,20 +77,23 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/parshjain_06/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<br clear="both" />
+
+<div align="center" style="font-family: Arial, sans-serif;">
+  <a href="https://www.instagram.com/parshjain_06/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="Instagram logo" />
   </a>
-  <a href="https://discord.com/channels/@parshjain">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.com/channels/@parshjain" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="Discord logo" />
   </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:parshjain46@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/parsh-jain-a50091253/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/parsh-jain-a50091253/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="LinkedIn logo" />
   </a>
 </div>
+
 
 ###
 
@@ -104,9 +107,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Parsh06/count.svg?"  />
-</div>
 
 ###
 
